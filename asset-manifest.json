@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/to-do-list-web2acx.git/static/css/main.2ee4493c.css",
+    "main.js": "/github.io/to-do-list-web2acx.git/static/js/main.544b3a0b.js",
+    "index.html": "/github.io/to-do-list-web2acx.git/index.html",
+    "main.2ee4493c.css.map": "/github.io/to-do-list-web2acx.git/static/css/main.2ee4493c.css.map",
+    "main.544b3a0b.js.map": "/github.io/to-do-list-web2acx.git/static/js/main.544b3a0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ee4493c.css",
+    "static/js/main.544b3a0b.js"
+  ]
+}
