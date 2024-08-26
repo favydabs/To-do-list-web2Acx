@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #b4b2b9;
+  background: #fff;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -25,7 +25,7 @@ h1 {
 }
 
 .TodoWrapper {
-  background: rgb(82, 82, 1);
+  background: rgb(61, 1, 139);
   margin-top: 5rem;
   padding: 2rem;
   border-radius: 5px;
@@ -80,7 +80,7 @@ h1 {
 }
 
 .completed {
-  color: #c5aeff;
+  color: #fff;
   text-decoration: line-through;
   cursor: pointer;
 }
